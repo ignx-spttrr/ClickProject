@@ -10,5 +10,5 @@ Extraer data de la api clickup
 
 # Issues
 
-     Falta informacion, ie: Time Entry ID. Getter api missing?
-     Excel descompaginado
+     Missing info, ie: Custom Fields. Getter api missing? 
+     Excel bugs
