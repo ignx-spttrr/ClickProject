@@ -10,9 +10,9 @@ https://drive.google.com/file/d/1soIaUTRWA9tM5-X0BvKsr638myURcVHW/view?usp=shari
 
 # Issues
 
-     Unable to get all the needed time trackers
      When using the time tracker LEGACY, exceeds rate limit
      When using the time tracker 2.0, does not return all of the assignees at once so you need to pass each of them manualy. Need to find a fuction to do it.
+     Missing tasks
 
 # GoogleCollab (OLD)
 
